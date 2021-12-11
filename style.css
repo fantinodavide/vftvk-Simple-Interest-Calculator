@@ -14,3 +14,13 @@ h1{color:grey;font-family:verdana}
     background: yellow;
     color: black;
 }
+input[type="number"], button, select{
+    border: none;
+    box-shadow: 0 0 10px 0 #0003;
+    border-radius: 5px;
+    padding: 3px;
+}
+button{
+    padding: 5px 10px;
+    background-color: #f4f4f4;   
+}
